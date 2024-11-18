@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PruebaInterapidisimo\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\data\\inscripciondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\inscripciondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\controllers\\inscripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\inscripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\data\\eventodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\eventodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|d:\\pruebainterapidisimo\\webapi\\webapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550FB8D-F062-464B-AFC8-A84C8E13BCF1}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 454,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InscripcionController.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Controllers\\InscripcionController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\InscripcionController.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Controllers\\InscripcionController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\InscripcionController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:48:29.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InscripcionData.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Data\\InscripcionData.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\InscripcionData.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Data\\InscripcionData.cs",
+              "RelativeToolTip": "WebApi\\Data\\InscripcionData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:47:48.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:18:40.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:13:13.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Data\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\UsuarioData.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Data\\UsuarioData.cs",
+              "RelativeToolTip": "WebApi\\Data\\UsuarioData.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:37.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Evento.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Models\\Evento.cs",
+              "RelativeToolTip": "WebApi\\Models\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:50:41.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EventoController.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EventoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAxwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:22:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoData.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Data\\EventoData.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\EventoData.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Data\\EventoData.cs",
+              "RelativeToolTip": "WebApi\\Data\\EventoData.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAwwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:06:02.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Models\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Inscripcion.cs",
+              "ToolTip": "D:\\PruebaInterapidisimo\\WebApi\\WebApi\\Models\\Inscripcion.cs",
+              "RelativeToolTip": "WebApi\\Models\\Inscripcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:57:02.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
